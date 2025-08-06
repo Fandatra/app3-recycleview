@@ -83,5 +83,12 @@ RecyclerView hanya membuat dan menampilkan item yang terlihat di layar. Ketika p
   Ketika item siswa diklik, data siswa dikirim melalui Intent ke DetailActivity. Di sana, data diterima dengan getStringExtra() dan ditampilkan ke layar menggunakan TextView.
 
 
+## Hasil
+
+
+
   ## Kesimpulan
   RecyclerView adalah komponen Android yang digunakan untuk menampilkan data dalam jumlah banyak secara efisien dan fleksibel. Dengan bantuan Adapter dan ViewHolder, RecyclerView mampu mengelola tampilan item secara optimal dengan cara mendaur ulang view yang tidak terlihat, sehingga hemat memori dan performanya tinggi. RecyclerView juga mendukung berbagai fitur seperti layout vertikal, horizontal, grid, filter pencarian, serta event klik item. Dalam implementasinya, data dikelola melalui model (data class), ditampilkan melalui adapter, dan dihubungkan dengan aktivitas untuk interaksi pengguna. Secara keseluruhan, RecyclerView merupakan solusi modern dan powerful untuk membuat daftar data yang interaktif dan responsif dalam aplikasi Android.
+
+
+
