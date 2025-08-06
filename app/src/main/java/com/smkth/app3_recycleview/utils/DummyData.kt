@@ -14,6 +14,7 @@ object DummyData{
             Student("Gilang", "1007", "XII TJKT 1"),
             Student("Hani", "1008", "XII TJKT 1"),
             Student("Iqbal", "1009", "XII TJKT 1"),
+            Student("Wiwo", "1009", "XII TJKT 1"),
             Student("Joko", "1010", "XII TJKT 1")
         )
     }
