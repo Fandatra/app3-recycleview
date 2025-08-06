@@ -83,12 +83,13 @@ RecyclerView hanya membuat dan menampilkan item yang terlihat di layar. Ketika p
   Ketika item siswa diklik, data siswa dikirim melalui Intent ke DetailActivity. Di sana, data diterima dengan getStringExtra() dan ditampilkan ke layar menggunakan TextView.
 
 
-## Hasil
-
-
-
   ## Kesimpulan
   RecyclerView adalah komponen Android yang digunakan untuk menampilkan data dalam jumlah banyak secara efisien dan fleksibel. Dengan bantuan Adapter dan ViewHolder, RecyclerView mampu mengelola tampilan item secara optimal dengan cara mendaur ulang view yang tidak terlihat, sehingga hemat memori dan performanya tinggi. RecyclerView juga mendukung berbagai fitur seperti layout vertikal, horizontal, grid, filter pencarian, serta event klik item. Dalam implementasinya, data dikelola melalui model (data class), ditampilkan melalui adapter, dan dihubungkan dengan aktivitas untuk interaksi pengguna. Secara keseluruhan, RecyclerView merupakan solusi modern dan powerful untuk membuat daftar data yang interaktif dan responsif dalam aplikasi Android.
 
+## Hasil
 
-
+<img width="203" height="608" alt="WhatsApp Image 2025-08-06 at 20 29 02_4b3a7cf2" src="https://github.com/user-attachments/assets/0a7e78cb-7507-4104-938e-88d25269eab4" />
+<img width="203" height="608" alt="WhatsApp Image 2025-08-06 at 20 29 03_e562d1fa" src="https://github.com/user-attachments/assets/7a6a2d80-7ee7-4c2d-8663-c769de834c68" />
+<img width="203" height="608" alt="WhatsApp Image 2025-08-06 at 20 29 03_ccd46ecc" src="https://github.com/user-attachments/assets/34f5f4ab-7e15-4b1d-a54e-883a8e5498ad" />
+<img width="203" height="608" alt="WhatsApp Image 2025-08-06 at 20 29 03_7bc18a32" src="https://github.com/user-attachments/assets/34f5f4ab-7e15-4b1d-a54e-883a8e5498ad" />
+<img width="203" height="608" alt="WhatsApp Image 2025-08-06 at 20 29 03_02d85497" src="https://github.com/user-attachments/assets/f3ca9af7-fd1f-43ea-ad5e-2e74ff563bfb" />
