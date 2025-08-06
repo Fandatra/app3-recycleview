@@ -15,7 +15,7 @@
         android:text="Biodata Siswa"
         android:gravity="center"
         android:textSize="40sp"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:textStyle="bold"
         android:layout_marginBottom="20dp"/>
     <ImageView
